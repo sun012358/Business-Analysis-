@@ -2,6 +2,8 @@
 
 A small public skill pack for commercial judgment and venture validation in Codex-style workflows.
 
+[简体中文版说明](README.zh-CN.md)
+
 This repository contains three reusable skills:
 
 - `project-analysis`: a simple front-door skill for quick project analysis
@@ -123,5 +125,5 @@ Please call business-analysis and tell me:
 ## Notes
 
 - This public repository intentionally excludes private notes, private heuristics, and private case libraries.
-- If you want to publish this repo publicly, choose and add a license before release.
+- This repository uses the MIT License.
 - If you want other people to install directly from GitHub later, you can keep this repository as a clean public layer and maintain your private extensions in a separate private repo.
