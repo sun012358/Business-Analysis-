@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Analysis"
+  short_description: "Simple shortcut for project feasibility judgment."
+  default_prompt: "Use this skill to analyze a project idea and route it into a structured feasibility judgment."

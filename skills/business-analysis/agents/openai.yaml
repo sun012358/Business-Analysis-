@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Analysis"
+  short_description: "Reusable commercial judgment for markets and projects."
+  default_prompt: "Analyze this market, project, product, or competitor and return a structured business judgment."

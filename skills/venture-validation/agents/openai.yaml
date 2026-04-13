@@ -1,0 +1,4 @@
+interface:
+  display_name: "Venture Validation"
+  short_description: "Judge startup ideas with assumption-led validation."
+  default_prompt: "Use this skill to evaluate a startup or business idea, identify the highest-risk assumptions, and decide whether to go, pivot, or kill."
