@@ -1,5 +1,8 @@
 # Business Analysis Skills Pack
 
+[English README](README.md)
+[安装说明](INSTALL.zh-CN.md)
+
 一套适合商业判断、项目分析和创业验证的公开 skill 包。
 
 目前包含 3 个可复用 skill：
