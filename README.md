@@ -3,6 +3,7 @@
 A small public skill pack for commercial judgment and venture validation in Codex-style workflows.
 
 [简体中文版说明](README.zh-CN.md)
+[Install Guide](INSTALL.md)
 
 This repository contains three reusable skills:
 
@@ -78,6 +79,8 @@ Please call business-analysis and evaluate whether this niche is worth entering.
 ## Install
 
 Copy the skill folders under `skills/` into your Codex skills directory.
+
+For a fuller setup guide, see [INSTALL.md](INSTALL.md).
 
 Typical local target:
 
